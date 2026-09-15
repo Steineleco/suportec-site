@@ -1,0 +1,6 @@
+{
+  "name": "Suportec Empresa - Serviços Técnicos",
+  "description": "Assistência técnica especializada em reparo de notebooks, desktops, celulares, tablets e suporte de campo com agendamento integrado e Google Maps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
